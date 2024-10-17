@@ -1,0 +1,440 @@
+[2024-10-17 6:36:19]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233619-191523af.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	Handling ././upload/2024/10/16/20241016233619-191523af.jpg got 
+[2024-10-17 6:36:19]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233619-191523af-me.jpg
+[2024-10-17 6:36:19]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233619-da138801.jpg, $representative_ext = 
+[2024-10-17 6:36:19]	[INFO]	Handling ././upload/2024/10/16/20241016233619-da138801.jpg got 
+[2024-10-17 6:36:20]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233619-da138801-me.jpg
+[2024-10-17 6:36:20]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233620-e3242f07.webp, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	Handling ././upload/2024/10/16/20241016233620-e3242f07.webp got 
+[2024-10-17 6:36:20]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233620-e3242f07-me.webp
+[2024-10-17 6:36:20]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:20]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233620-94c6535d.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	Handling ././upload/2024/10/16/20241016233620-94c6535d.jpg got 
+[2024-10-17 6:36:21]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233620-94c6535d-me.jpg
+[2024-10-17 6:36:21]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233621-1bba2bd7.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	Handling ././upload/2024/10/16/20241016233621-1bba2bd7.jpg got 
+[2024-10-17 6:36:21]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233621-1bba2bd7-me.jpg
+[2024-10-17 6:36:21]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233621-99275ba9.jpg, $representative_ext = 
+[2024-10-17 6:36:21]	[INFO]	Handling ././upload/2024/10/16/20241016233621-99275ba9.jpg got 
+[2024-10-17 6:36:21]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233621-99275ba9-me.jpg
+[2024-10-17 6:36:22]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233622-10fbfe4b.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	Handling ././upload/2024/10/16/20241016233622-10fbfe4b.jpg got 
+[2024-10-17 6:36:22]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233622-10fbfe4b-me.jpg
+[2024-10-17 6:36:22]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233622-e216ebe7.jpg, $representative_ext = 
+[2024-10-17 6:36:22]	[INFO]	Handling ././upload/2024/10/16/20241016233622-e216ebe7.jpg got 
+[2024-10-17 6:36:22]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233622-e216ebe7-me.jpg
+[2024-10-17 6:36:23]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	Handling ././upload/2024/10/16/20241016233623-7cf8eaa2.jpg got 
+[2024-10-17 6:36:23]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233623-7cf8eaa2-me.jpg
+[2024-10-17 6:36:23]	[INFO]	upload_file_pdf, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_heic, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_tiff, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_video, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_psd, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	upload_file_eps, $file_path = ././upload/2024/10/16/20241016233623-8f06e455.jpg, $representative_ext = 
+[2024-10-17 6:36:23]	[INFO]	Handling ././upload/2024/10/16/20241016233623-8f06e455.jpg got 
+[2024-10-17 6:36:23]	[INFO]	add_uploaded_file : force cache generation, derivative_url = http://localhost/piwigo/i.php?/upload/2024/10/16/20241016233623-8f06e455-me.jpg
+[2024-10-17 6:36:23]	[DEBUG]	empty_lounge (API:pwg.images.uploadCompleted), exec=UNCf, begins
+[2024-10-17 6:36:23]	[DEBUG]	empty_lounge, exec=UNCf wins the race and gets the token!
+[2024-10-17 6:36:23]	[DEBUG]	empty_lounge, exec=UNCf, ends
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233622-e216ebe7.jpg'
+  derivative_path: '20241016233622-e216ebe7-sq.jpg'
+  o_size: '474 367 173958'
+  d_size: '120 120 14400'
+  mem_usage: 2.1
+  timing: array(
+    'load' => 128,
+    'rotate' => '',
+    'crop' => 8,
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 9,
+    'total' => 159,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233622-10fbfe4b.jpg'
+  derivative_path: '20241016233622-10fbfe4b-sq.jpg'
+  o_size: '615 396 243540'
+  d_size: '120 120 14400'
+  mem_usage: 2.5
+  timing: array(
+    'load' => 125,
+    'rotate' => '',
+    'crop' => 9,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 9,
+    'total' => 159,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233623-7cf8eaa2.jpg'
+  derivative_path: '20241016233623-7cf8eaa2-sq.jpg'
+  o_size: '525 384 201600'
+  d_size: '120 120 14400'
+  mem_usage: 2.3
+  timing: array(
+    'load' => 132,
+    'rotate' => '',
+    'crop' => 14,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 13,
+    'total' => 175,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233621-1bba2bd7.jpg'
+  derivative_path: '20241016233621-1bba2bd7-sq.jpg'
+  o_size: '648 646 418608'
+  d_size: '120 120 14400'
+  mem_usage: 4.6
+  timing: array(
+    'load' => 125,
+    'rotate' => '',
+    'crop' => 29,
+    'scale' => 45,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 8,
+    'total' => 212,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233623-8f06e455.jpg'
+  derivative_path: '20241016233623-8f06e455-sq.jpg'
+  o_size: '1124 979 1100396'
+  d_size: '120 120 14400'
+  mem_usage: 12.3
+  timing: array(
+    'load' => 129,
+    'rotate' => '',
+    'crop' => 79,
+    'scale' => 76,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 20,
+    'total' => 307,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233620-94c6535d.jpg'
+  derivative_path: '20241016233620-94c6535d-sq.jpg'
+  o_size: '460 460 211600'
+  d_size: '120 120 14400'
+  mem_usage: 1.8
+  timing: array(
+    'load' => 147,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 14,
+    'total' => 176,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233621-99275ba9.jpg'
+  derivative_path: '20241016233621-99275ba9-sq.jpg'
+  o_size: '574 534 306516'
+  d_size: '120 120 14400'
+  mem_usage: 3.4
+  timing: array(
+    'load' => 145,
+    'rotate' => '',
+    'crop' => 17,
+    'scale' => 17,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 8,
+    'total' => 189,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233619-da138801.jpg'
+  derivative_path: '20241016233619-da138801-sq.jpg'
+  o_size: '575 560 322000'
+  d_size: '120 120 14400'
+  mem_usage: 3.6
+  timing: array(
+    'load' => 112,
+    'rotate' => '',
+    'crop' => 17,
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 0,
+    'send' => 7,
+    'total' => 153,
+  )
+[2024-10-17 6:41:29]	[DEBUG]	[i.php]	
+  src_path: '20241016233619-191523af.jpg'
+  derivative_path: '20241016233619-191523af-sq.jpg'
+  o_size: '574 554 317996'
+  d_size: '120 120 14400'
+  mem_usage: 3.5
+  timing: array(
+    'load' => 124,
+    'rotate' => '',
+    'crop' => 15,
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 8,
+    'total' => 164,
+  )
+[2024-10-17 6:41:49]	[DEBUG]	[i.php]	
+  src_path: '20241016233622-10fbfe4b.jpg'
+  derivative_path: '20241016233622-10fbfe4b-cu_e250.jpg'
+  o_size: '615 396 243540'
+  d_size: '250 250 62500'
+  mem_usage: 2.5
+  timing: array(
+    'load' => 63,
+    'rotate' => '',
+    'crop' => 8,
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 6,
+    'total' => 96,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233622-e216ebe7.jpg'
+  derivative_path: '20241016233622-e216ebe7-xs.jpg'
+  o_size: '474 367 173958'
+  d_size: '418 324 135432'
+  mem_usage: 2.1
+  timing: array(
+    'load' => 114,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 10,
+    'total' => 157,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233623-7cf8eaa2.jpg'
+  derivative_path: '20241016233623-7cf8eaa2-xs.jpg'
+  o_size: '525 384 201600'
+  d_size: '432 315 136080'
+  mem_usage: 2.3
+  timing: array(
+    'load' => 150,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 19,
+    'total' => 202,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233621-1bba2bd7.jpg'
+  derivative_path: '20241016233621-1bba2bd7-2s.jpg'
+  o_size: '648 646 418608'
+  d_size: '240 239 57360'
+  mem_usage: 3.0
+  timing: array(
+    'load' => 153,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 40,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 9,
+    'total' => 205,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233621-99275ba9.jpg'
+  derivative_path: '20241016233621-99275ba9-xs.jpg'
+  o_size: '574 534 306516'
+  d_size: '348 324 112752'
+  mem_usage: 2.6
+  timing: array(
+    'load' => 144,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 52,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 18,
+    'total' => 217,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233622-10fbfe4b.jpg'
+  derivative_path: '20241016233622-10fbfe4b-xs.jpg'
+  o_size: '615 396 243540'
+  d_size: '432 278 120096'
+  mem_usage: 2.3
+  timing: array(
+    'load' => 146,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 53,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 18,
+    'total' => 223,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233623-8f06e455.jpg'
+  derivative_path: '20241016233623-8f06e455-xs.jpg'
+  o_size: '1124 979 1100396'
+  d_size: '371 324 120204'
+  mem_usage: 9.0
+  timing: array(
+    'load' => 130,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 112,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 23,
+    'send' => 10,
+    'total' => 277,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233620-94c6535d.jpg'
+  derivative_path: '20241016233620-94c6535d-2s.jpg'
+  o_size: '460 460 211600'
+  d_size: '240 240 57600'
+  mem_usage: 2.0
+  timing: array(
+    'load' => 126,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 6,
+    'total' => 154,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233619-da138801.jpg'
+  derivative_path: '20241016233619-da138801-xs.jpg'
+  o_size: '575 560 322000'
+  d_size: '332 324 107568'
+  mem_usage: 2.7
+  timing: array(
+    'load' => 104,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 31,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 7,
+    'total' => 148,
+  )
+[2024-10-17 6:41:51]	[DEBUG]	[i.php]	
+  src_path: '20241016233619-191523af.jpg'
+  derivative_path: '20241016233619-191523af-xs.jpg'
+  o_size: '574 554 317996'
+  d_size: '335 324 108540'
+  mem_usage: 2.7
+  timing: array(
+    'load' => 122,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 8,
+    'total' => 167,
+  )
+[2024-10-17 6:42:21]	[DEBUG]	[i.php]	
+  src_path: '20241016233620-94c6535d.jpg'
+  derivative_path: '20241016233620-94c6535d-sm.jpg'
+  o_size: '460 460 211600'
+  d_size: '432 432 186624'
+  mem_usage: 2.5
+  timing: array(
+    'load' => 62,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 5,
+    'total' => 101,
+  )
+[2024-10-17 6:42:44]	[DEBUG]	[i.php]	
+  src_path: '20241016233621-1bba2bd7.jpg'
+  derivative_path: '20241016233621-1bba2bd7-me.jpg'
+  o_size: '648 646 418608'
+  d_size: '595 594 353430'
+  mem_usage: 4.2
+  timing: array(
+    'load' => 58,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 54,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 15,
+    'total' => 133,
+  )

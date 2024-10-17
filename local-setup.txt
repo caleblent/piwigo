@@ -11,4 +11,4 @@ Database tables prefix: piwigo_
 Administration configuration
 Username: piwigo_admin
 Password: piwigo_password
-Email address: admin@piwigo.com
+Email address: admin@piwigo.email
