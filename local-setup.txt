@@ -1,0 +1,14 @@
+Basic configuration
+Default gallery language: English (US)
+
+Database configuration
+Host: localhost
+User: piwigo_db_user
+Password: piwigo_db_password
+Database Name: piwigo
+Database tables prefix: piwigo_
+
+Administration configuration
+Username: piwigo_admin
+Password: piwigo_password
+Email address: admin@piwigo.com
